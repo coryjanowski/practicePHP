@@ -5,5 +5,5 @@
 <footer>
   <p>Coryj</p>
 
-  <input type="button" value="Say Hi!" onclick="location='test.php'" />
+  <input type="button" value="Say Hi!" onclick="location='index.php'" />
 </footer>
